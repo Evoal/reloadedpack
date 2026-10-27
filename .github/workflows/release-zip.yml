@@ -12,13 +12,13 @@ jobs:
 
       - name: Create zip
         run: |
-          zip -r reloadedrp ./*
+          zip -r reloadedrp.zip ./*
 
       - name: Create / update release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: latest
           name: Latest
-          files: project.zip
+          files: reloadedrp.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
