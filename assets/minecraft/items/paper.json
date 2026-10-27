@@ -1,0 +1,104 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/birthday_fox"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/zoddd_p2"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/zoddd_p1"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/nova_3w"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/star_p2"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/star_p1"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/nv_p4"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/nv_p3"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/nv_p2"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/nv_p1"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/mg_p2"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/mg_p1"
+        }
+      },
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/aaa_poster_1"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "property": "minecraft:custom_model_data",
+      "model": "minecraft:item/paper"
+    }
+  }
+}

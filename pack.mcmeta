@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "min_format": 84,
+    "max_format": 97,
+    "description": {
+      "text": "ReloadedSMP resource pack maintained by Evoal91",
+      "color": "gold",
+      "bold": true
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "reloaded:item/season9/wind_crystal"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -22.5, 0],
+			"translation": [0, 3.25, 1.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -22.5, 0],
+			"translation": [0, 3.25, 1.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -22.5, 0],
+			"translation": [0, 3.25, 1.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 151, 0],
+			"translation": [0, 3.25, 1.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"ground": {
+			"rotation": [28, -180, 23],
+			"translation": [0, 5.5, 5.25]
+		},
+		"gui": {
+			"rotation": [0, -180, 0]
+		},
+		"head": {
+			"translation": [0, 20, 0]
+		},
+		"on_shelf": {
+			"translation": [0, 0, -3.75]
+		}
+	}
+}

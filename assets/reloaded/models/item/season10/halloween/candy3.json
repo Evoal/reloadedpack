@@ -1,0 +1,63 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"6": "reloaded:item/season10/halloween/candy3",
+		"particle": "reloaded:item/season10/halloween/candy3"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 7.5],
+			"to": [8.5, 9, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2, 8]},
+			"faces": {
+				"north": {"uv": [5, 0, 6, 9], "texture": "#6"},
+				"east": {"uv": [6, 0, 7, 9], "texture": "#6"},
+				"south": {"uv": [7, 0, 8, 9], "texture": "#6"},
+				"west": {"uv": [8, 0, 9, 9], "texture": "#6"},
+				"up": {"uv": [10, 7, 9, 6], "texture": "#6"},
+				"down": {"uv": [10, 7, 9, 8], "texture": "#6"}
+			}
+		},
+		{
+			"from": [5.499, 8.999, 7.499],
+			"to": [10.501, 14.001, 8.501],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 11.5, 8]},
+			"faces": {
+				"north": {"uv": [5, 5, 0, 10], "texture": "#6"},
+				"east": {"uv": [9, 0, 10, 5], "texture": "#6"},
+				"south": {"uv": [0, 5, 5, 10], "texture": "#6"},
+				"west": {"uv": [5, 9, 6, 14], "texture": "#6"},
+				"up": {"uv": [14, 6, 9, 5], "texture": "#6"},
+				"down": {"uv": [11, 9, 6, 10], "texture": "#6"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-180, -90, -180],
+			"translation": [0, 4.5, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-180, -90, -180],
+			"translation": [0, 4.5, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -75, 0],
+			"translation": [2.75, 2.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -75, 0],
+			"translation": [2.75, 2.5, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [0.5, 0.25, 0]
+		},
+		"fixed": {
+			"translation": [0, 0.5, 0.5]
+		}
+	}
+}

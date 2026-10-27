@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/pumpkin_bucket"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/candybasket"
+        }
+      },
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/basket"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bundle"
+    }
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_nugget"
+    },
+    "entries": [
+      {
+        "threshold": 90,
+        "model": {
+          "type": "minecraft:model",
+          "model": "christmas:item/season10/christmas/snowflake"
+        }
+      },
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/do_ember"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/do_coin"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/do_crown"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/do_key"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/do_ticket"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/do_tome"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/pocketwatchofshreep"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/rocketship"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/chiseloftheundeadsculptress"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/goathorns"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/tntslab"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/gogglesofsymmetry"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/gemofgreatness"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/multigrainwaffle"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/hypnoticbandanna"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/goldeneye"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/omegaeyeofdoom"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/jarofswiftslime"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/lorebook"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/pappaslippers"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/hiddenstash"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/lunarpearl"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/doggoneshades"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/deathloop"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/wandofgorgeousness"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/adequatemug"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/themasterskey"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/skadoodler"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/anoldfriendspickaxe"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/butchersapron"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/knightshelm"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/hoodofawyeh"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/axeofthevoid"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/artifacts/crookofthepinkshepherd"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/stumble"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/sneak"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/treasure_hunter"
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/ember_seeker"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/stability"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/moment_of_clarity"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/pay_to_win"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/tactical_approach"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/pork_chop_power"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/evasion"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/loot_and_scoot"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/frost_focus"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/tread_lightly"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/second_wind"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/beast_sense"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/bounding_strides"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/sprint"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/smash_and_grab"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/reckless_charge"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/nimble_looting"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/quickstep"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/suit_up"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/adrenaline_rush"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/swagger"
+        }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/speed_run"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/eerie_silence"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/chill_step"
+        }
+      },
+      {
+        "threshold": 64,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/dungeon_repairs"
+        }
+      },
+      {
+        "threshold": 65,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/eyes_on_the_prize"
+        }
+      },
+      {
+        "threshold": 66,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/pirate_booty"
+        }
+      },
+      {
+        "threshold": 67,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/cold_snap"
+        }
+      },
+      {
+        "threshold": 68,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/silent_runner"
+        }
+      },
+      {
+        "threshold": 69,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/fuzzy_bunny_slippers"
+        }
+      },
+      {
+        "threshold": 70,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/deepfrost"
+        }
+      },
+      {
+        "threshold": 71,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/brilliance"
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/boots_of_striding"
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/glorious_moment"
+        }
+      },
+      {
+        "threshold": 74,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/cash_cow"
+        }
+      },
+      {
+        "threshold": 75,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/avalanche"
+        }
+      },
+      {
+        "threshold": 76,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/beast_master"
+        }
+      },
+      {
+        "threshold": 77,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/cards/dungeon_lackey"
+        }
+      },
+      {
+        "threshold": 78,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/keys/do_key1"
+        }
+      },
+      {
+        "threshold": 79,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/keys/do_key2"
+        }
+      },
+      {
+        "threshold": 80,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/keys/do_key4"
+        }
+      },
+      {
+        "threshold": 81,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/keys/do_key5"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/keys/pirate"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/keys/broken"
+        }
+      },
+      {
+        "threshold": 84,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/keys/do_key3"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/keys/do_key6"
+        }
+      },
+      {
+        "threshold": 86,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/foilcards/1stplace"
+        }
+      },
+      {
+        "threshold": 87,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/foilcards/2ndplace"
+        }
+      },
+      {
+        "threshold": 88,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/foilcards/3rdplace"
+        }
+      },
+      {
+        "threshold": 89,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/do/do_frozenshard6"
+        }
+      }
+    ]
+  }
+}

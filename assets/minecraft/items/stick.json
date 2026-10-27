@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/witch_broom"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/witch_broom_offhand"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/magic_wand"
+        }
+      },
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tango/locked_slot"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "property": "minecraft:custom_model_data",
+      "model": "minecraft:item/stick"
+    }
+  }
+}

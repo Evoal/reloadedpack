@@ -1,0 +1,155 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:broken",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/elytra"
+      },
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/elytra_broken"
+      }
+    },
+    "entries": [
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/steampunk_broken"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/steampunk"
+          }
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/mojang_broken"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/mojang"
+          }
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/soul_broken"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/soul"
+          }
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/special_broken"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/special"
+          }
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/mce_broken"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/mce"
+          }
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/twisted_broken"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/twisted"
+          }
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/hero_broken"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/hero"
+          }
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/cc_broken"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/cc"
+          }
+        }
+      },
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/evoal91"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "reloaded:item/season10/elytra/evoal91_broken"
+          }
+        }
+      }
+    ]
+  }
+}

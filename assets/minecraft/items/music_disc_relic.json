@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/dexolade/music_disc_relic"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "property": "minecraft:custom_model_data",
+      "model": "minecraft:item/music_disc_relic"
+    }
+  }
+}

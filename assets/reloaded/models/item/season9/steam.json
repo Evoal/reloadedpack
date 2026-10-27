@@ -1,0 +1,81 @@
+{
+    "credit": "Made for Steampunk User",
+    "texture_size": [64, 64],
+    "textures": {
+        "0": "block/steampunk_helmet_texture",
+        "particle": "block/steampunk_helmet_texture"
+    },
+    "display": {
+        "head": {
+            "rotation": [0, 0, 0],
+            "translation": [0, 0, 0],
+            "scale": [1.6, 1.6, 1.6]
+        },
+        "gui": {
+            "rotation": [30, 225, 0],
+            "translation": [0, 0, 0],
+            "scale": [0.625, 0.625, 0.625]
+        },
+        "thirdperson_righthand": {
+            "rotation": [75, 45, 0],
+            "translation": [0, 2.5, 0],
+            "scale": [0.375, 0.375, 0.375]
+        },
+        "firstperson_righthand": {
+            "rotation": [0, 45, 0],
+            "translation": [0, 0, 0],
+            "scale": [0.4, 0.4, 0.4]
+        }
+    },
+    "elements": [
+        {
+            "name": "HelmetBase",
+            "from": [3, 0, 3],
+            "to": [13, 9, 13],
+            "faces": {
+                "north": {"uv": [0, 0, 5, 4.5], "texture": "#0"},
+                "east": {"uv": [0, 0, 5, 4.5], "texture": "#0"},
+                "south": {"uv": [0, 0, 5, 4.5], "texture": "#0"},
+                "west": {"uv": [0, 0, 5, 4.5], "texture": "#0"},
+                "up": {"uv": [0, 0, 5, 5], "texture": "#0"},
+                "down": {"uv": [0, 0, 5, 5], "texture": "#0"}
+            }
+        },
+        {
+            "name": "Goggles",
+            "from": [3, 4, 13],
+            "to": [13, 7, 14.5],
+            "faces": {
+                "north": {"uv": [5, 0, 10, 1.5], "texture": "#0"},
+                "east": {"uv": [5, 0, 5.75, 1.5], "texture": "#0"},
+                "west": {"uv": [5, 0, 5.75, 1.5], "texture": "#0"},
+                "up": {"uv": [5, 0, 10, 0.75], "texture": "#0"},
+                "down": {"uv": [5, 0, 10, 0.75], "texture": "#0"}
+            }
+        },
+        {
+            "name": "GearSide",
+            "from": [13, 3, 5],
+            "to": [14, 8, 10],
+            "faces": {
+                "east": {"uv": [0, 5, 2.5, 7.5], "texture": "#0"},
+                "north": {"uv": [0, 5, 0.5, 7.5], "texture": "#0"},
+                "south": {"uv": [0, 5, 0.5, 7.5], "texture": "#0"},
+                "up": {"uv": [0, 5, 0.5, 2.5], "texture": "#0"},
+                "down": {"uv": [0, 5, 0.5, 2.5], "texture": "#0"}
+            }
+        },
+        {
+            "name": "ExhaustPipe",
+            "from": [10, 9, 10],
+            "to": [12, 13, 12],
+            "faces": {
+                "north": {"uv": [3, 5, 4, 7], "texture": "#0"},
+                "east": {"uv": [3, 5, 4, 7], "texture": "#0"},
+                "south": {"uv": [3, 5, 4, 7], "texture": "#0"},
+                "west": {"uv": [3, 5, 4, 7], "texture": "#0"},
+                "up": {"uv": [3, 5, 4, 6], "texture": "#0"}
+            }
+        }
+    ]
+}

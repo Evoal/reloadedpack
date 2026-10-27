@@ -1,0 +1,258 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/witchcat_hat"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/headlesshorseman"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/bat_hat"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/widowhat"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/pumpkin_head"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/hat"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/pumpkin_hat"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/freddy_mask"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season10/halloween/bonnie_ears"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/tango/phone2"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/tango/phone"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/tango/bandana"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/macbook"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/water_trophy"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/royal_trophy"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/ghost_trophy"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/fire_trophy"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/ender_trophy"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/eagle_trophy"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/water_crystal"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/wind_crystal"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/fire_crystal"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/nature_crystal"
+        }
+      },
+      {
+        "threshold": 600,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/tango_hood"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/cowboy_hat"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/casino_sign"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/pirate_hat3"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/pirate_hat2"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/pirate_hat1"
+        }
+      },
+      {
+        "threshold": 67,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/gomerbeard"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/derby_trophy"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/cc_chall"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/bronzemedal2"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "reloaded:item/season9/silvermedal2"
+        }
+      },
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "reloaded:item/season9/goldmedal2"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "property": "minecraft:custom_model_data",
+      "model": "minecraft:block/carved_pumpkin"
+    }
+  }
+}

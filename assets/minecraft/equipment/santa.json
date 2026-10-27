@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:santa_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:santa_armor"
+      }
+    ]
+  }
+}

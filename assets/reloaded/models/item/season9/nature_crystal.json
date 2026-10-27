@@ -1,0 +1,42 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "reloaded:item/season9/nature_crystal"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -22.5, 0],
+			"translation": [0, 3.25, 1.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -22.5, 0],
+			"translation": [0, 3.25, 1.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -22.5, 0],
+			"translation": [0, 3.25, 1.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 151, 0],
+			"translation": [0, 3.25, 1.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"ground": {
+			"rotation": [0, 0, -180],
+			"translation": [0, 3, 0],
+			"scale": [0.55, 0.55, 1]
+		},
+		"head": {
+			"translation": [0, 20, 0]
+		},
+		"on_shelf": {
+			"translation": [0, 0, -3.75]
+		}
+	}
+}
