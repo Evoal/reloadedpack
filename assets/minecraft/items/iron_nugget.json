@@ -9,13 +9,6 @@
     },
     "entries": [
       {
-        "threshold": 90,
-        "model": {
-          "type": "minecraft:model",
-          "model": "christmas:item/season10/christmas/snowflake"
-        }
-      },
-      {
         "threshold": 1,
         "model": {
           "type": "minecraft:model",
