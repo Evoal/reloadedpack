@@ -15,6 +15,7 @@
             {"file":"reloaded:rank/member.png","chars":[""],"height":7,"ascent":7,"type":"bitmap"},
             {"file":"reloaded:rank/developer.png","chars":[""],"height":7,"ascent":7,"type":"bitmap"},
             {"file":"reloaded:rank/alt.png","chars":[""],"height":7,"ascent":7,"type":"bitmap"},
+            {"file":"reloaded:rank/streaming.png","chars":[""],"height":7,"ascent":7,"type":"bitmap"},
             {"file":"reloaded:rank/custom/evoal91.png","chars":[""],"height":7,"ascent":7,"type":"bitmap"}
 		]
 	}
