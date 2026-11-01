@@ -19,6 +19,6 @@
             {"file":"reloaded:rank/status/recording.png","chars":[""],"height":7,"ascent":7,"type":"bitmap"},
             {"file":"reloaded:rank/status/dnd.png","chars":[""],"height":7,"ascent":7,"type":"bitmap"},
             {"file":"reloaded:rank/status/lagging.png","chars":[""],"height":7,"ascent":7,"type":"bitmap"},
-            {"file":"reloaded:rank/custom/evoal91.png","chars":[""],"height":7,"ascent":7,"type":"bitmap"}
+            {"file":"reloaded:rank/custom/evoal91.png","chars":[""],"height":7,"ascent":7,"type":"bitmap"}
 		]
 	}
