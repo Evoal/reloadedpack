@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:thanksgiving2"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:thanksgiving2"
+      }
+    ]
+  }
+}
