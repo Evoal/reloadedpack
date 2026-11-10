@@ -19,7 +19,7 @@ jobs:
 
       - name: Create SHA-1 checksum
         run: |
-          sha1sum reloadedrp.zip > reloadedrp.zip.sha1
+          sha1sum reloadedrp.zip | cut -d' ' -f1 > reloadedrp.zip.sha1
           cat reloadedrp.zip.sha1
 
       - name: Create / update release
