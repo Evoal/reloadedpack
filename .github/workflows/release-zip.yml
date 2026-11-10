@@ -4,6 +4,9 @@ on:
   push:
     branches: [ main ]
 
+# permissions: # Not sure why claude added this??
+  # contents: write
+
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -14,11 +17,18 @@ jobs:
         run: |
           zip -r reloadedrp.zip ./*
 
+      - name: Create SHA-1 checksum
+        run: |
+          sha1sum reloadedrp.zip > reloadedrp.zip.sha1
+          cat reloadedrp.zip.sha1
+
       - name: Create / update release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: latest
           name: Latest
-          files: reloadedrp.zip
+          files: |
+            reloadedrp.zip
+            reloadedrp.zip.sha1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
